@@ -17,16 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a first-year M.S. student from [Department of Mechanical Engineering](https://www.me.columbia.edu/), [Columbia University](https://www.columbia.edu/). My research interest includes robot manipulator, 
+I'm a first-year M.S. student from [Department of Mechanical Engineering](https://www.me.columbia.edu/), [Columbia University](https://www.columbia.edu/). My research interest includes robotics, robot manipulator, artificial intelligence, control and cloud-based vehicle control.
 
 You can find my CV here: [Tao's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 [Email](mailto:tao.naian@columbia.edu)
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
 
