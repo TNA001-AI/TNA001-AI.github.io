@@ -36,17 +36,26 @@ You can find my CV here: [Tao's Curriculum Vitae](../assets/Naian_Tao_CV.pdf).
 
 
 # 🎖 Honors and Awards
-- *Jan 2023*. Individual Scholarship in School Year 2021-2022 Term 2 in BUCT
-- *Nov 2022*. **National First Prize in 2022 RoboCup China Open ROBOCUP@HOME**
--	*Nov 2022*. **Second Prize in 2021 China Robot Skills Competition, Beijing Division A Group**
-- *Nov 2022*. Qualified in the program Intelligent Four-legged Voice Interactive Robot in 2022 Innovation and Entrepreneurship Training Program for college students
--	*Nov 2022*. Qualified in the program Humanoid Soft Robot in 2022 Innovation and Entrepreneurship Training Program for college students
--	*May 2022*. Third Scholarship in School Year 2021-2022 Term 1 in BUCT
--	*Dec 2021*. **National Second Prize in 2021 China Robot Skills Competition**
--	*Dec 2021*. Third Scholarship in School Year 2020-2021 Term 2 in BUCT
--	*Jul 2021*. Third Prize in 2021 BUCT Intelligent Service Robot Competition
--	*May 2021*. Third Scholarship in School Year 2020-2021 Term 1 in BUCT
--	*Apr 2021*. Outstanding Student Leader in BUCT CEE
+- *Jan 2023*, Individual Scholarship in School Year 2021-2022 Term 2 in BUCT
+- *Nov 2022*, **National First Prize in 2022 RoboCup China Open ROBOCUP@HOME**
+-	*Nov 2022*, **Second Prize in 2021 China Robot Skills Competition, Beijing Division A Group**
+- *Nov 2022*, Qualified in the program Intelligent Four-legged Voice Interactive Robot in 2022 Innovation and Entrepreneurship Training Program for college students
+-	*Nov 2022*, Qualified in the program Humanoid Soft Robot in 2022 Innovation and Entrepreneurship Training Program for college students
+-	*May 2022*, Third Scholarship in School Year 2021-2022 Term 1 in BUCT
+-	*Dec 2021*, **National Second Prize in 2021 China Robot Skills Competition**
+-	*Dec 2021*, Third Scholarship in School Year 2020-2021 Term 2 in BUCT
+-	*Jul 2021*, Third Prize in 2021 BUCT Intelligent Service Robot Competition
+-	*May 2021*, Third Scholarship in School Year 2020-2021 Term 1 in BUCT
+-	*Apr 2021*, Outstanding Student Leader in BUCT CEE
+
+
+
+# 💻 Internships
+- *Feb 2023 - May 2023*, Tsinghua University Intelligent Connected Vehicle Research Group, Beijing, China.
+  - Developed a system integrating electric truck fleet scheduling and battery swapping optimization with cloud control, enhancing efficiency and reducing energy waste. In simulation experiments, using this algorithm saves $15\%$ more energy and $9\%$ more cost compared to the *Cruise Control (CC)* method.
+  - Created a *Predictive Cruise Control (PCC)* for cruise control in electric trucks. Factored in road slope information and used the *Dynamic Programming (DP)* algorithm to generate efficient speed sequences, reduce energy consumption, and enhance energy regenerative capabilities.
+  - Implemented cloud control for real-time fleet, environment, and infrastructure connectivity, improving adaptive driving with dynamic traffic data by using the *Genetic Algorithm (GA)*.
+  - Co-authored a patent on *Battery Swapping Rhythm Planning and Predictive Cruise Control Method for Electric Heavy Truck Fleets} (Patent Number: [CN117002500A](http://epub.cnipa.gov.cn/patent/CN117002500A).
 
 # 📝 Publications 
 
@@ -65,9 +74,4 @@ You can find my CV here: [Tao's Curriculum Vitae](../assets/Naian_Tao_CV.pdf).
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
