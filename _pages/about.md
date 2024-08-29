@@ -35,6 +35,10 @@ You can find my CV here: [Tao's Curriculum Vitae](../assets/Naian_Tao_CV.pdf).
   - Courses: Robotics, Autonomous Mobility Robotics, Embedded Systems, Computational Intelligence Technique, Mechatronics Modeling & Simulation
 - *Aug 2024 – Present*. [Columbia University](https://www.columbia.edu/), New York, NY, US
   - M.S. in Mechanical Engineering (Robotics Track)
+ 
+# 🚀 Projects
+
+
 
 # 💻 Internships
 - *Feb 2023 - May 2023*, Tsinghua University Intelligent Connected Vehicle Research Group, Beijing, China.
@@ -56,6 +60,7 @@ You can find my CV here: [Tao's Curriculum Vitae](../assets/Naian_Tao_CV.pdf).
 -	*May 2021*, Third Scholarship in School Year 2020-2021 Term 1 in BUCT
 -	*Apr 2021*, Outstanding Student Leader in BUCT CEE
 
+# 🧠 Skills
 
 
 
