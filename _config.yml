@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Naian Tao's website"
+title                    : "Tao's website"
 description              : ""
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
