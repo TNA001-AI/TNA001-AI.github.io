@@ -38,7 +38,7 @@ You can find my CV here: [Tao's Curriculum Vitae](../assets/Naian_Tao_CV.pdf).
 # 🎖 Honors and Awards
 - *Jan 2023*. Individual Scholarship in School Year 2021-2022 Term 2 in BUCT
 - *Nov 2022*. **National First Prize in 2022 RoboCup China Open ROBOCUP@HOME**
--	*Nov 2022* **Second Prize in 2021 China Robot Skills Competition, Beijing Division A Group**
+-	*Nov 2022*. **Second Prize in 2021 China Robot Skills Competition, Beijing Division A Group**
 - *Nov 2022*. Qualified in the program Intelligent Four-legged Voice Interactive Robot in 2022 Innovation and Entrepreneurship Training Program for college students
 -	*Nov 2022*. Qualified in the program Humanoid Soft Robot in 2022 Innovation and Entrepreneurship Training Program for college students
 -	*May 2022*. Third Scholarship in School Year 2021-2022 Term 1 in BUCT
