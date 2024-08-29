@@ -31,7 +31,7 @@ You can find my CV here: [Tao's Curriculum Vitae](../assets/Naian_Tao_CV.pdf).
 - *Aug 2023 - Jun 2024*, [University of Detroit Mercy](https://english.buct.edu.cn/main.htm), Detroit, MI, US
   - B.S. in Mechatronics, Robotics, and Automation Engineering, GPA: 3.81/4.00
   - Courses: Robotics, Computational Intelligence Technique, Mechatronics Modeling & Simul
-- *Aug 2024 – Present*, [Columbia University](https://www.columbia.edu/),New York, NY, US
+- *Aug 2024 – Present*, [Columbia University](https://www.columbia.edu/), New York, NY, US
   - M.S. in Mechanical Engineering (Robotics Track)
 
 
