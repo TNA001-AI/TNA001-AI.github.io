@@ -27,7 +27,7 @@ You can find my CV here: [Tao's Curriculum Vitae](../assets/Naian_Tao_CV.pdf).
 # 📖 Educations
 - *Sept 2020 - Jun 2024*. [Beijing University of Chemical Technology](https://english.buct.edu.cn/main.htm), Beijing, CN
   - B.E. in Mechanical Design, Manufacturing and Automation, GPA: 3.62/4.33
-  - Courses: Program Design, Automatic Control Design, Artificial Intelligence, Basic Theory of Mechine Design, Hydraulic and Atmospheric Pressure Transmission
+  - Courses: Program Design, Automatic Control Design, Artificial Intelligence, Mechine Design, Hydraulic and Atmospheric Pressure Transmission
 - *Aug 2023 - Jun 2024*. [University of Detroit Mercy](https://www.udmercy.edu/), Detroit, MI, US
   - B.E. in Mechatronics, Robotics, and Automation Engineering, GPA: 3.81/4.00
   - Courses: Robotics, Embedded Systems, Autonomous Mobility Robotics, Computational Intelligence Technique, Mechatronics Modeling & Simulation
@@ -55,7 +55,7 @@ You can find my CV here: [Tao's Curriculum Vitae](../assets/Naian_Tao_CV.pdf).
   - Developed a system integrating electric truck fleet scheduling and battery swapping optimization with cloud control, enhancing efficiency and reducing energy waste. In simulation experiments, using this algorithm saves $15\%$ more energy and $9\%$ more cost compared to the *Cruise Control (CC)* method.
   - Created a *Predictive Cruise Control (PCC)* for cruise control in electric trucks. Factored in road slope information and used the *Dynamic Programming (DP)* algorithm to generate efficient speed sequences, reduce energy consumption, and enhance energy regenerative capabilities.
   - Implemented cloud control for real-time fleet, environment, and infrastructure connectivity, improving adaptive driving with dynamic traffic data by using the *Genetic Algorithm (GA)*.
-  - Co-authored a patent on *Battery Swapping Rhythm Planning and Predictive Cruise Control Method for Electric Heavy Truck Fleets} (Patent Number: [CN117002500A](http://epub.cnipa.gov.cn/patent/CN117002500A).
+  - Co-authored a patent on *Battery Swapping Rhythm Planning and Predictive Cruise Control Method for Electric Heavy Truck Fleets* (Patent Number: [CN117002500A](http://epub.cnipa.gov.cn/patent/CN117002500A).
 
 # 📝 Publications 
 
