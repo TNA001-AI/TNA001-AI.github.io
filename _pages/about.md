@@ -25,13 +25,13 @@ You can find my CV here: [Tao's Curriculum Vitae](../assets/Curriculum_Vitae.pdf
 
 
 # 📖 Educations
-- *Sept 2020 - Jun 2024*, Beijing University of Chemical Technology, Beijing,CN.
-  - *BS in Mechanical Design, Manufacturing and Automation*, GPA: 3.62/4.33
+- *Sept 2020 - Jun 2024*, Beijing University of Chemical Technology, Beijing, CN
+  - BS in Mechanical Design, Manufacturing and Automation, GPA: 3.62/4.33
   - Courses: Program Design, Automatic Control Design, Artificial Intelligence
 - *Aug 2023 - Jun 2024*, University of Detroit Mercy, Detroit, MI, US
-  - *BS in Mechatronics, Robotics, and Automation Engineering*, GPA: 3.81/4.00
+  - BS in Mechatronics, Robotics, and Automation Engineering, GPA: 3.81/4.00
   - Courses: Robotics, Computational Intelligence Technique, Mechatronics Modeling & Simul
-- *Aug 2024 – Dec 2025*, Columbia University
+- *Aug 2024 – Present*, Columbia University,New York,NY,US
   - MS in Mechanical Engineering (Robotics Track)
 
 
