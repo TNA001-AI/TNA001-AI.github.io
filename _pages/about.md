@@ -21,7 +21,8 @@ I'm a first-year M.S. student from [Department of Mechanical Engineering](https:
 
 You can find my CV here: [Tao's Curriculum Vitae](../assets/Naian_Tao_CV.pdf).
 
-[Email: tao.naian@columbia.edu](mailto:tao.naian@columbia.edu)/[LinkedIn: linkedin.com/in/naian-tao](linkedin.com/in/naian-tao)
+[Email: tao.naian@columbia.edu](mailto:tao.naian@columbia.edu)
+[LinkedIn: linkedin.com/in/naian-tao](linkedin.com/in/naian-tao)
 
 
 # 📖 Educations
