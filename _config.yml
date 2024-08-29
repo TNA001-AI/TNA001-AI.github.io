@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Naian Tao"
   avatar           : "images/tao.jpg"
-  bio              : "Turning ideas into robotic reality!"
-  employer         : "New York, NY, US"
+  bio              : "Turning ideas into robotic reality!"  
   location         : "Columbia University"
+  employer         : "New York, NY, US"
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "nt2712@columbia.edu"
