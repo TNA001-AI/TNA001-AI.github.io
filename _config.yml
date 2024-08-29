@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Naian Tao's website"
+title                    : # "Naian Tao's website"
 description              : "Naian Tao's website"
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : false
@@ -24,7 +24,7 @@ author:
   name             : "Naian Tao"
   avatar           : "images/tao.jpg"
   bio              : "Lorem ipsum College"
-  location         : "NY, US"
+  location         : "New York,NY, US"
   employer         :
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
