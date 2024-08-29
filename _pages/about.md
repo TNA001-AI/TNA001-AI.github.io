@@ -26,10 +26,10 @@ You can find my CV here: [Tao's Curriculum Vitae](../assets/Naian_Tao_CV.pdf).
 
 # 📖 Educations
 - *Sept 2020 - Jun 2024*. [Beijing University of Chemical Technology](https://english.buct.edu.cn/main.htm), Beijing, CN
-  - B.S. in Mechanical Design. Manufacturing and Automation, GPA: 3.62/4.33
+  - B.E. in Mechanical Design. Manufacturing and Automation, GPA: 3.62/4.33
   - Courses: Program Design, Automatic Control Design, Artificial Intelligence
 - *Aug 2023 - Jun 2024*. [University of Detroit Mercy](https://english.buct.edu.cn/main.htm), Detroit, MI, US
-  - B.S. in Mechatronics. Robotics, and Automation Engineering, GPA: 3.81/4.00
+  - B.E. in Mechatronics. Robotics, and Automation Engineering, GPA: 3.81/4.00
   - Courses: Robotics. Computational Intelligence Technique, Mechatronics Modeling & Simul
 - *Aug 2024 – Present*. [Columbia University](https://www.columbia.edu/), New York, NY, US
   - M.S. in Mechanical Engineering (Robotics Track)
@@ -37,13 +37,12 @@ You can find my CV here: [Tao's Curriculum Vitae](../assets/Naian_Tao_CV.pdf).
 
 # 🎖 Honors and Awards
 - *Jan 2023*. Individual Scholarship in School Year 2021-2022 Term 2 in BUCT
-- ***Nov 2022*. National First Prize in 2022 RoboCup China Open ROBOCUP@HOME**
--	***Nov 2022* Second prize in 2021 China Robot Skills Competition, Beijing Division A Group**
+- *Nov 2022*. **National First Prize in 2022 RoboCup China Open ROBOCUP@HOME**
+-	*Nov 2022* **Second prize in 2021 China Robot Skills Competition, Beijing Division A Group**
 - *Nov 2022*. Qualified in the program Intelligent Four-legged Voice Interactive Robot in 2022 Innovation and Entrepreneurship Training Program for college students
 -	*Nov 2022*. Qualified in the program Humanoid Soft Robot in 2022 Innovation and Entrepreneurship Training Program for college students
 -	*May 2022*. Third Scholarship in School Year 2021-2022 Term 1 in BUCT
-
--	***Dec 2021*. National second prize in 2021 China Robot Skills Competition**
+-	*Dec 2021*. **National second prize in 2021 China Robot Skills Competition**
 -	*Dec 2021*. Third Scholarship in School Year 2020-2021 Term 2 in BUCT
 -	*Jul 2021*. Third Prize in 2021 BUCT Intelligent Service Robot Competition
 -	*May 2021*. Third Scholarship in School Year 2020-2021 Term 1 in BUCT
