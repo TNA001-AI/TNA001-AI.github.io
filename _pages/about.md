@@ -28,10 +28,10 @@ You can find my CV here: [Tao's Curriculum Vitae](../assets/Naian_Tao_CV.pdf).
 # 📖 Educations
 - *Sept 2020 - Jun 2024*. [Beijing University of Chemical Technology](https://english.buct.edu.cn/main.htm), Beijing, CN
   - B.E. in Mechanical Design, Manufacturing and Automation, GPA: 3.62/4.33
-  - Courses: Program Design, Automatic Control Design, Artificial Intelligence, Mechine Design, Hydraulic and Atmospheric Pressure Transmission
+  - Courses: Automatic Control Design, Artificial Intelligence, Mechine Design, Program Design, Hydraulic and Atmospheric Pressure Transmission
 - *Aug 2023 - Jun 2024*. [University of Detroit Mercy](https://www.udmercy.edu/), Detroit, MI, US
   - B.E. in Mechatronics, Robotics, and Automation Engineering, GPA: 3.81/4.00
-  - Courses: Robotics, Embedded Systems, Autonomous Mobility Robotics, Computational Intelligence Technique, Mechatronics Modeling & Simulation
+  - Courses: Robotics, Autonomous Mobility Robotics, Embedded Systems, Computational Intelligence Technique, Mechatronics Modeling & Simulation
 - *Aug 2024 – Present*. [Columbia University](https://www.columbia.edu/), New York, NY, US
   - M.S. in Mechanical Engineering (Robotics Track)
 
