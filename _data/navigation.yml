@@ -10,7 +10,7 @@ main:
     url: "/#-educations"
 
   - title: "Projects"
-    url: "/#-Projects"
+    url: "/#-projects"
     
   - title: "Internships"
     url: "/#-internships"
