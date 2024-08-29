@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Naian Tao"
   avatar           : "images/tao.jpg"
-  bio              : # "Lorem ipsum College"
+  bio              : "Turning ideas into robotic reality!"
   location         : "New York, NY, US"
-  employer         :
+  employer         : "M.S. student in Mechanical Engineering at Columbia University"
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "nt2712@columbia.edu"
