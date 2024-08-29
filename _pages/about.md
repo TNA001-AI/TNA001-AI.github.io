@@ -34,6 +34,12 @@ You can find my CV here: [Tao's Curriculum Vitae](../assets/Naian_Tao_CV.pdf).
 - *Aug 2024 – Present*. [Columbia University](https://www.columbia.edu/), New York, NY, US
   - M.S. in Mechanical Engineering (Robotics Track)
 
+# 💻 Internships
+- *Feb 2023 - May 2023*, Tsinghua University Intelligent Connected Vehicle Research Group, Beijing, China.
+  - Developed a system integrating electric truck fleet scheduling and battery swapping optimization with cloud control, enhancing efficiency and reducing energy waste. In simulation experiments, using this algorithm saves $15\%$ more energy and $9\%$ more cost compared to the *Cruise Control (CC)* method.
+  - Created a *Predictive Cruise Control (PCC)* for cruise control in electric trucks. Factored in road slope information and used the *Dynamic Programming (DP)* algorithm to generate efficient speed sequences, reduce energy consumption, and enhance energy regenerative capabilities.
+  - Implemented cloud control for real-time fleet, environment, and infrastructure connectivity, improving adaptive driving with dynamic traffic data by using the *Genetic Algorithm (GA)*.
+  - Co-authored a patent on *Battery Swapping Rhythm Planning and Predictive Cruise Control Method for Electric Heavy Truck Fleets* (Patent Number: [CN117002500A](http://epub.cnipa.gov.cn/patent/CN117002500A).
 
 # 🎖 Honors and Awards
 - *Jan 2023*, Individual Scholarship in School Year 2021-2022 Term 2 in BUCT
@@ -50,12 +56,6 @@ You can find my CV here: [Tao's Curriculum Vitae](../assets/Naian_Tao_CV.pdf).
 
 
 
-# 💻 Internships
-- *Feb 2023 - May 2023*, Tsinghua University Intelligent Connected Vehicle Research Group, Beijing, China.
-  - Developed a system integrating electric truck fleet scheduling and battery swapping optimization with cloud control, enhancing efficiency and reducing energy waste. In simulation experiments, using this algorithm saves $15\%$ more energy and $9\%$ more cost compared to the *Cruise Control (CC)* method.
-  - Created a *Predictive Cruise Control (PCC)* for cruise control in electric trucks. Factored in road slope information and used the *Dynamic Programming (DP)* algorithm to generate efficient speed sequences, reduce energy consumption, and enhance energy regenerative capabilities.
-  - Implemented cloud control for real-time fleet, environment, and infrastructure connectivity, improving adaptive driving with dynamic traffic data by using the *Genetic Algorithm (GA)*.
-  - Co-authored a patent on *Battery Swapping Rhythm Planning and Predictive Cruise Control Method for Electric Heavy Truck Fleets* (Patent Number: [CN117002500A](http://epub.cnipa.gov.cn/patent/CN117002500A).
 
 # 📝 Publications 
 
