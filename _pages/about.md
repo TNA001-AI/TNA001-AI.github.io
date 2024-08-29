@@ -36,14 +36,14 @@ You can find my CV here: [Tao's Curriculum Vitae](../assets/Naian_Tao_CV.pdf).
 
 
 # 🎖 Honors and Awards
-- *January 2023*. Individual Scholarship in School Year 2021-2022 Term 2 in BUCT, 
-- *November 2022*. Qualified in the program Intelligent Four-legged Voice Interactive Robot in 2022 Innovation and Entrepreneurship Training Program for college students
--	*November 2022*. Qualified in the program Humanoid Soft Robot in 2022 Innovation and Entrepreneurship Training Program for college students
+- *Jan 2023*. Individual Scholarship in School Year 2021-2022 Term 2 in BUCT, 
+- *Nov 2022*. Qualified in the program Intelligent Four-legged Voice Interactive Robot in 2022 Innovation and Entrepreneurship Training Program for college students
+-	*Nov 2022*. Qualified in the program Humanoid Soft Robot in 2022 Innovation and Entrepreneurship Training Program for college students
 -	*May 2022*, Third Scholarship in School Year 2021-2022 Term 1 in BUCT
--	*December 2021*. Third Scholarship in School Year 2020-2021 Term 2 in BUCT
--	*July 2021*. Third Prize in 2021 BUCT Intelligent Service Robot Competition
+-	*Dec 2021*. Third Scholarship in School Year 2020-2021 Term 2 in BUCT
+-	*Jul 2021*. Third Prize in 2021 BUCT Intelligent Service Robot Competition
 -	*May 2021*. Third Scholarship in School Year 2020-2021 Term 1 in BUCT
--	*April 2021*. Outstanding Student Leader in BUCT CEE
+-	*Apr 2021*. Outstanding Student Leader in BUCT CEE
 
 # 📝 Publications 
 
