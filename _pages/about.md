@@ -65,9 +65,9 @@ You can find my CV here: [Tao's Curriculum Vitae](../assets/Naian_Tao_CV.pdf).
 - **Programming Language**: Proficient in using *C++*, *Python*, and *Matlab* in robotics. 
 - **ROS**: Proficient in working with *ROS*.
 - **Robotics and Robot Control**: Proficiency in using robotics control frameworks like *MoveIt* for motion planning. Skill in kinematics solving.
-- **Navigation and Mapping**: Advanced skills in 2D indoor mapping using tools like *Google Cartographer*. Implementation of path planning algorithms and tools, including *DWA*, *RRT**, *A**, *Move_Base*,etc.
+- **Navigation and Mapping**: Advanced skills in 2D indoor mapping using tools like *Google Cartographer*. Implementation of path planning algorithms and tools, including *DWA*, *RRT**, *A**, *Move_Base*, etc.
 - **Cloud-Based Vehicle Control**: Hands-on experience in developing cloud-based control systems for vehicles. Algorithm development for optimizing vehicle speed and power management.
-- **Microcontroller Proficiency**: Proficient in the use of *TM4C microcontrollers* and *Arduino*.
+- **Microcontroller Proficiency**: Proficient in the use of *TM4C* microcontrollers and *Arduino*.
 - **Mathematical Modeling**: Deep understanding of mathematical modeling methods and tools. Application of mathematical modeling principles in real-world problem-solving.
 - **Soft skills**: Quick learning ability, self-starting, and problem-solving as demonstrated in numerous competitions and internships.
 
