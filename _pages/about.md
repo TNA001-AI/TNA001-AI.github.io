@@ -47,7 +47,7 @@ You can find my CV here: [Tao's Curriculum Vitae](../assets/Naian_Tao_CV.pdf).
   - Implemented cloud control for real-time fleet, environment, and infrastructure connectivity, improving adaptive driving with dynamic traffic data by using the *Genetic Algorithm (GA)*.
   - Co-authored a patent on *Battery Swapping Rhythm Planning and Predictive Cruise Control Method for Electric Heavy Truck Fleets* (Patent Number: [CN117002500A](http://epub.cnipa.gov.cn/patent/CN117002500A)).
 
-# 🎖 Honors and Awards
+# 🏆 Honors and Awards
 - *Jan 2023*, Individual Scholarship in School Year 2021-2022 Term 2 in BUCT
 - *Nov 2022*, **National First Prize in 2022 RoboCup China Open ROBOCUP@HOME**
 -	*Nov 2022*, **Second Prize in 2021 China Robot Skills Competition, Beijing Division A Group**
