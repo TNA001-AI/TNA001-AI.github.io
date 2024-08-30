@@ -46,7 +46,7 @@ You can find my CV here: [Tao's Curriculum Vitae](../assets/Naian_Tao_CV.pdf).
         <div class="spacer"></div>
         <img src="images/SeniorProject.gif" alt="sym2">
     </div>
-    <div class="paper-box-text">
+    <div class="paper-box-text" markdown="1">
 
 [**Robotics Senior Design at the University of Detroit Mercy**](https://youtu.be/Mp3_kLw8cQc)
 
