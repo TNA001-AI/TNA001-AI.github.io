@@ -97,10 +97,10 @@ You can find my CV here: [Tao's Curriculum Vitae](../assets/Naian_Tao_CV.pdf).
 
 - [Swarming Robot: Sim2Real Transfer](https://youtu.be/3t6fWcQid-4) -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Curriculum Design</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Curriculum Design</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Other Course Designs**
+**Other Course Designs** -->
 
 <!-- - [【3D Printing】 Bladeless fan and its simulation](https://www.youtube.com/watch?v=6420fBbG6VM)
 
