@@ -96,8 +96,6 @@ You can find my CV here: [Tao's Curriculum Vitae](../assets/Naian_Tao_CV.pdf).
 - [Collaborative Control of Robot Simulation](https://www.youtube.com/watch?v=om2NmwMu-Js)
 
 - [Swarming Robot: Sim2Real Transfer](https://youtu.be/3t6fWcQid-4) -->
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Curriculum Design</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
