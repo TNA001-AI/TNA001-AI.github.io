@@ -38,8 +38,15 @@ You can find my CV here: [Tao's Curriculum Vitae](../assets/Naian_Tao_CV.pdf).
  
 # 🚀 Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Senior Project</div><img src='images/SeniorProject.gif' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Senior Project</div>
+      <img src='images/SeniorProject.gif' alt="sym" width="100%">
+      <img src='images/SeniorProject.gif' alt="sym2" width="100%">
+      </div>
+    </div>
+  <div class='paper-box-text' markdown="1">
 
 
 [**Robotics Senior Design at the University of Detroit Mercy**](https://youtu.be/Mp3_kLw8cQc)
@@ -50,7 +57,7 @@ You can find my CV here: [Tao's Curriculum Vitae](../assets/Naian_Tao_CV.pdf).
 - Performed camera calibration and hand-eye calibration between the robotic arm and the camera, significantly improving the grasping accuracy.
 - Implemented navigation functionality using the *A\** algorithm for global path planning and the *DWA* algorithm for local path planning.
 
-</div>
+  </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RoboCup</div><img src='images/DoorOpening.gif' alt="sym" width="100%"></div></div>
