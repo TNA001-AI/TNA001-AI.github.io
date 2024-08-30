@@ -39,16 +39,14 @@ You can find my CV here: [Tao's Curriculum Vitae](../assets/Naian_Tao_CV.pdf).
 # 🚀 Projects
 
 
-<!-- <div class='paper-box'>
-    <div class='paper-box-image'>
-      <div>
+<div class="paper-box">
+    <div class="paper-box-image">
         <div class="badge">RoboCup</div>
-        <img src='images/DoorOpening.gif' alt="sym" width="100%">
+        <img src="images/DoorOpening.gif" alt="sym">
         <div class="spacer"></div>
-        <img src='images/SeniorProject.gif' alt="sym" width="100%">
-      </div>
+        <img src="images/SeniorProject.gif" alt="sym2">
     </div>
-  <div class='paper-box-text' markdown="1">
+    <div class="paper-box-text">
 
 [**Robotics Senior Design at the University of Detroit Mercy**](https://youtu.be/Mp3_kLw8cQc)
 
@@ -59,7 +57,7 @@ You can find my CV here: [Tao's Curriculum Vitae](../assets/Naian_Tao_CV.pdf).
 - Implemented navigation functionality using the *A\** algorithm for global path planning and the *DWA* algorithm for local path planning.
 
   </div>
-</div> -->
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RoboCup</div><img src='images/DoorOpening.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

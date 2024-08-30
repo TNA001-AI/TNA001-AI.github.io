@@ -53,6 +53,7 @@
     .paper-box-image{
         justify-content: center;
         display: flex;
+        flex-direction: column; /* 改为列方向布局 */
         width: 100%;
         order: 2;
         img {
