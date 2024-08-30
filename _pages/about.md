@@ -41,7 +41,7 @@ You can find my CV here: [Tao's Curriculum Vitae](../assets/Naian_Tao_CV.pdf).
 <div class='paper-box'>
   <div class='paper-box-image'>
   <div>
-    <div class="badge">RoboCup</div>
+    <div class="badge">Senior Design</div>
     <img src="images/SeniorProject.gif" alt="sym">
   </div>
   </div>
