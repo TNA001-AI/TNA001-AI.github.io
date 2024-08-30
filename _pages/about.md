@@ -42,20 +42,21 @@ You can find my CV here: [Tao's Curriculum Vitae](../assets/Naian_Tao_CV.pdf).
 <div class="paper-box">
   <div class="paper-box-image">
     <div>
-      <div class="badge">Door-opening</div>
+      <div class="badge">Senior Design</div>
       <img src="images/DoorOpening.gif" alt="sym">
       <img src="images/SeniorProject.gif" alt="sym2">
     </div>
   </div>
   <div class="paper-box-text" markdown="1">
-      
-    [**Robotics Senior Design at the University of Detroit Mercy**](https://youtu.be/Mp3_kLw8cQc)
+  
+[**Robotics Senior Design at the University of Detroit Mercy**](https://youtu.be/Mp3_kLw8cQc)
 
-    - Designed an assistant robot system to help elderly individuals, combining mobile robots, computer vision, and a robotic manipulator.
-    - Modeled the *ReactorX-200* robotic arm and developed an app in *Matlab* to simulate both forward and inverse kinematics of the robotic arm. Finally, applied the algorithm to the real robotic arm for verification and used the program to control the arm.
-    - Trained dataset using *YOLOv8* and combined it with *Kinect V2* point cloud data to achieve target object localization.
-    - Performed camera calibration and hand-eye calibration between the robotic arm and the camera, significantly improving the grasping accuracy.
-    - Implemented navigation functionality using the *A\** algorithm for global path planning and the *DWA* algorithm for local path planning.
+- Designed an assistant robot system to help elderly individuals, combining mobile robots, computer vision, and a robotic manipulator.
+- Modeled the *ReactorX-200* robotic arm and developed an app in *Matlab* to simulate both forward and inverse kinematics of the robotic arm. Finally, applied the algorithm to the real robotic arm for verification and used the program to control the arm.
+- Trained dataset using *YOLOv8* and combined it with *Kinect V2* point cloud data to achieve target object localization.
+- Performed camera calibration and hand-eye calibration between the robotic arm and the camera, significantly improving the grasping accuracy.
+- Implemented navigation functionality using the *A\** algorithm for global path planning and the *DWA* algorithm for local path planning.
+
   </div>
 </div>
 
