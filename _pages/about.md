@@ -39,7 +39,7 @@ You can find my CV here: [Tao's Curriculum Vitae](../assets/Naian_Tao_CV.pdf).
 # 🚀 Projects
 
 
-<div class='paper-box'>
+<!-- <div class='paper-box'>
     <div class='paper-box-image'>
       <div>
         <div class="badge">RoboCup</div>
@@ -59,7 +59,7 @@ You can find my CV here: [Tao's Curriculum Vitae](../assets/Naian_Tao_CV.pdf).
 - Implemented navigation functionality using the *A\** algorithm for global path planning and the *DWA* algorithm for local path planning.
 
   </div>
-</div>
+</div> -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RoboCup</div><img src='images/DoorOpening.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
