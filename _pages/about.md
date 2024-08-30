@@ -38,6 +38,81 @@ You can find my CV here: [Tao's Curriculum Vitae](../assets/Naian_Tao_CV.pdf).
  
 # 🚀 Projects
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Senior Project</div><img src='images/SeniorProject.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Robotics Senior Design at the University of Detroit Mercy**](https://youtu.be/Mp3_kLw8cQc)
+
+- Employed an Extended Kalman Filter (EKF) alongside an omnidirectional motion model for state projection and correction using sensor data, including IMU and odometry
+- Utilized A* algorithm for global path planning and Timed Elastic Band algorithm for local path planning
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RoboCup</div><img src='images/DoorOpening.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**RoboCup China Open 2022 ROBOCUP@HOME**
+
+- Designed home service robot with capabilities in guest reception and guidance, object grasping & delivery, object recognition, and voice interaction.
+
+- Designed and executed a algorithm combining object recognition with object grasping and delivery.
+
+-	Orchestrated a four-step approach, including precise identification of target objects, accurate localization using depth cameras, pose analysis for gripping, and precise control of the robotic arm for successful object grasping and delivery.
+
+-	Utilized *MoveIt* with *Open Motion Planning Library (OMPL)* for motion and path planning, *RRT** algorithm for efficient trajectory generation, and *TRAC-IK* for accurate inverse kinematics.
+
+-	Integrated *YOLOv5* and *Kinect DK* to achieve target object recognition and 3D localization.
+
+- Used the *Grasp Pose Detection (GPD)* package to detect 6-DOF grasp poses for a 2-finger robot hand in 3D point clouds, enabling the grasping of objects in various orientations.
+
+-	Successfully developed and implemented a unique robotic door-opening solution to complete the challenging task – the only team that completed this task.
+
+-	Innovatively combined precise base positioning and mechanical arm path planning, significantly reducing computation time, streamlining the process, and efficiently completing door-opening tasks while ensuring obstacle avoidance.
+
+- [What is That](https://youtu.be/Q4CnmgxCESk)
+
+- [Receptionist](https://youtu.be/N8DXzzaAM7E)
+
+- [Object Grasping ](https://youtu.be/AMC0N596RX8)
+
+- [Door-opening Solution](https://youtu.be/AMC0N596RX8)
+
+</div>
+</div>
+
+
+
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Swarm Robot</div><img src='images/swarm.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+ **Collaborative Control of Wheeled-legged Robots** 
+
+- Aimed to study the simultaneous stabilization and tracking problems of non-holonomic wheeled mobile robots based on kinematics models
+  
+- [Collaborative Control of Robot Simulation](https://www.youtube.com/watch?v=om2NmwMu-Js)
+
+- [Swarming Robot: Sim2Real Transfer](https://youtu.be/3t6fWcQid-4) -->
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Curriculum Design</div><img src='images/Curriculum Design.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Other Course Designs**
+
+<!-- - [【3D Printing】 Bladeless fan and its simulation](https://www.youtube.com/watch?v=6420fBbG6VM)
+
+- [A Microcontroller Car Based on Tm4c123g](https://youtube.com/shorts/m4qo-C5q6Ho)
+
+- [Design of hydraulic system for single-leg structure of multi-legged robot](https://github.com/linden713/Design-of-hydraulic-system-for-single-leg-structure-of-multi-legged-robot)
+
+- [Genetic Algorithm Based Function Optimization and BP Neural Network Based Prediction](https://github.com/linden713/Genetic-Algorithm-Based-Function-Optimization-and-BP-Neural-Network-Based-Prediction)
+
+- [Secondary reduction gearbox design](https://github.com/linden713/Secondary-reduction-gearbox-design)
+
+</div>
+</div> -->
 
 
 # 💻 Internships
@@ -74,7 +149,6 @@ You can find my CV here: [Tao's Curriculum Vitae](../assets/Naian_Tao_CV.pdf).
 
 
 # 📝 Publications 
-,
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
