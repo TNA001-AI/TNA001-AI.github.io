@@ -41,6 +41,9 @@ You can find my CV here: [Tao's Curriculum Vitae](../assets/Naian_Tao_CV.pdf).
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Senior Project</div><img src='images/SeniorProject.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Senior Project</div><img src='images/SeniorProject.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 [**Robotics Senior Design at the University of Detroit Mercy**](https://youtu.be/Mp3_kLw8cQc)
 
 - Designed an assistant robot system to help elderly individuals, combining mobile robots, computer vision, and a robotic manipulator.
