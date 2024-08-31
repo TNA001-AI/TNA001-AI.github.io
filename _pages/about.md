@@ -103,9 +103,6 @@ Mechatronics Modeling & Simulation
 </div>
 </div>
 
-
-**Other Projects** 
-
 <div class='paper-box'>
   <div class='paper-box-image'>
   <div>
@@ -114,6 +111,7 @@ Mechatronics Modeling & Simulation
   </div>
 <div class='paper-box-text' markdown="1">
 
+**Other Projects** 
 - [TM4C Microcontroller-based ROS Car](https://youtu.be/Vz4X8Z0HHWA)
 
 - [Design of the Hydraulic System for a Single Leg Structure of a Multi-Legged Robot](https://github.com/TNA001-AI/Hydraulic-System-for-a-Single-Leg-Structure.git)
