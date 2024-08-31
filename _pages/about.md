@@ -104,35 +104,18 @@ Mechatronics Modeling & Simulation
 </div>
 
 
+**Other Projects** 
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Swarm Robot</div><img src='images/swarm.gif' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- [TM4C Microcontroller-based ROS Car](https://youtu.be/Vz4X8Z0HHWA)
 
- **Collaborative Control of Wheeled-legged Robots** 
+- [Design of the Hydraulic System for a Single Leg Structure of a Multi-Legged Robot](https://github.com/TNA001-AI/Hydraulic-System-for-a-Single-Leg-Structure.git)
 
-- Aimed to study the simultaneous stabilization and tracking problems of non-holonomic wheeled mobile robots based on kinematics models
-  
-- [Collaborative Control of Robot Simulation](https://www.youtube.com/watch?v=om2NmwMu-Js)
-
-- [Swarming Robot: Sim2Real Transfer](https://youtu.be/3t6fWcQid-4) -->
-
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Curriculum Design</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Other Course Designs** -->
-
-<!-- - [【3D Printing】 Bladeless fan and its simulation](https://www.youtube.com/watch?v=6420fBbG6VM)
-
-- [A Microcontroller Car Based on Tm4c123g](https://youtube.com/shorts/m4qo-C5q6Ho)
-
-- [Design of hydraulic system for single-leg structure of multi-legged robot](https://github.com/linden713/Design-of-hydraulic-system-for-single-leg-structure-of-multi-legged-robot)
-
-- [Genetic Algorithm Based Function Optimization and BP Neural Network Based Prediction](https://github.com/linden713/Genetic-Algorithm-Based-Function-Optimization-and-BP-Neural-Network-Based-Prediction)
-
-- [Secondary reduction gearbox design](https://github.com/linden713/Secondary-reduction-gearbox-design)
+- [Genetic Algorithm Experiment and BP Neural Network Experiment](https://github.com/TNA001-AI/Genetic-Algorithm-Experiment-and-BP-Neural-Network-Experiment.git)
+<!-- 
+- [Secondary reduction gearbox design]() -->
 
 </div>
-</div> -->
+</div>
 
 
 # 💻 Internships
@@ -168,20 +151,6 @@ Mechatronics Modeling & Simulation
 - **Soft skills**: Quick learning ability, self-starting, and problem-solving as demonstrated in numerous competitions and internships.
 
 
-<!-- # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 
 
