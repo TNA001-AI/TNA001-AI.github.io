@@ -111,8 +111,6 @@ Mechatronics Modeling & Simulation
 - [Design of the Hydraulic System for a Single Leg Structure of a Multi-Legged Robot](https://github.com/TNA001-AI/Hydraulic-System-for-a-Single-Leg-Structure.git)
 
 - [Genetic Algorithm Experiment and BP Neural Network Experiment](https://github.com/TNA001-AI/Genetic-Algorithm-Experiment-and-BP-Neural-Network-Experiment.git)
-<!-- 
-- [Secondary reduction gearbox design]() -->
 
 
 
