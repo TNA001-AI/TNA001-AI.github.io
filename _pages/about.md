@@ -42,7 +42,7 @@ You can find my CV here: [Tao's Curriculum Vitae](../assets/Naian_Tao_CV.pdf).
   <div class='paper-box-image'>
   <div>
     <div class="badge">Senior Design</div>
-    <img src="images/SeniorProject.gif" alt="sym">
+    <img src="images/SeniorProject.gif" alt="sym" width="100%">
   </div>
   </div>
 <div class='paper-box-text' markdown="1">
@@ -65,7 +65,7 @@ You can find my CV here: [Tao's Curriculum Vitae](../assets/Naian_Tao_CV.pdf).
   <div>
     <div class="badge">RoboCup</div>
     <img src='images/DoorOpening.gif' alt="sym" width="100%">
-    <img src="images/SeniorProject.gif" alt="sym2">
+    <img src="images/SeniorProject.gif" alt="sym2" width="100%">
   </div>
   </div>
 <div class='paper-box-text' markdown="1">
