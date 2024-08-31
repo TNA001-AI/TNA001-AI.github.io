@@ -118,6 +118,8 @@ Mechatronics Modeling & Simulation
 
 - [Genetic Algorithm Experiment and BP Neural Network Experiment](https://github.com/TNA001-AI/Genetic-Algorithm-Experiment-and-BP-Neural-Network-Experiment.git)
 
+- [Two-stage gearbox mechanical design](https://github.com/TNA001-AI/Two-stage-gearbox-mechanical-design)
+
 </div>
 </div>
 
