@@ -27,15 +27,18 @@ You can find my CV here: [Tao's Curriculum Vitae](../assets/Naian_Tao_CV.pdf).
 
 
 # 📖 Educations
-- *Sept 2020 - Jun 2024*. [Beijing University of Chemical Technology](https://english.buct.edu.cn/main.htm), Beijing, CN
-  - B.E. in Mechanical Design, Manufacturing and Automation, GPA: 3.62/4.33
-  - Courses: Automatic Control Design, Artificial Intelligence, Mechine Design, Program Design, Hydraulic and Atmospheric Pressure Transmission
-- *Aug 2023 - Jun 2024*. [University of Detroit Mercy](https://www.udmercy.edu/), Detroit, MI, US
-  - B.E. in Mechatronics, Robotics, and Automation Engineering, GPA: 3.81/4.00
-  - Courses: Robotics, Autonomous Mobility Robotics, Embedded Systems, Computational Intelligence Technique, Mechatronics Modeling & Simulation
+Mechatronics Modeling & Simulation
 - *Aug 2024 – Present*. [Columbia University](https://www.columbia.edu/), New York, NY, US
   - M.S. in Mechanical Engineering (Robotics Track)
- 
+
+- *Aug 2023 - Jun 2024*. [University of Detroit Mercy](https://www.udmercy.edu/), Detroit, MI, US
+  - B.E. in Mechatronics, Robotics, and Automation Engineering, GPA: 3.81/4.00
+  - Courses: Robotics, Autonomous Mobility Robotics, Embedded Systems, Computational Intelligence Technique, 
+
+- *Sept 2020 - Jun 2024*. [Beijing University of Chemical Technology](https://english.buct.edu.cn/main.htm), Beijing, CN
+  - B.E. in Mechanical Design, Manufacturing and Automation, GPA: 3.62/4.33
+  - Courses: Automatic Control Design, Artificial Intelligence, Mechine Design, Program Design, Hydraulic and Atmospheric Pressure Transmission 
+
 # 🚀 Projects
 
 <div class='paper-box'>
@@ -65,7 +68,8 @@ You can find my CV here: [Tao's Curriculum Vitae](../assets/Naian_Tao_CV.pdf).
   <div>
     <div class="badge">RoboCup</div>
     <img src='images/DoorOpening.gif' alt="sym" width="100%">
-    <img src="images/SeniorProject.gif" alt="sym2" width="100%">
+    <img src="images/ObjectGrasping1.gif" alt="sym2" width="100%">
+    <img src="images/ObjectGrasping2.gif" alt="sym2" width="100%">
   </div>
   </div>
 <div class='paper-box-text' markdown="1">
@@ -88,13 +92,13 @@ You can find my CV here: [Tao's Curriculum Vitae](../assets/Naian_Tao_CV.pdf).
 
 -	Innovatively combined precise base positioning and mechanical arm path planning, significantly reducing computation time, streamlining the process, and efficiently completing door-opening tasks while ensuring obstacle avoidance.
 
-- [What is That](https://youtu.be/Q4CnmgxCESk)
+- [Door-opening Solution](https://youtu.be/5L3_ih3M9L4)
+
+- [Object Grasping ](https://youtu.be/INuuNCfpnjQ)
 
 - [Receptionist](https://youtu.be/N8DXzzaAM7E)
 
-- [Object Grasping ](https://youtu.be/AMC0N596RX8)
-
-- [Door-opening Solution](https://youtu.be/AMC0N596RX8)
+- [What is That](https://youtu.be/Q4CnmgxCESk)
 
 </div>
 </div>
