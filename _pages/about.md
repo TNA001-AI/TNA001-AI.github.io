@@ -109,7 +109,6 @@ Mechatronics Modeling & Simulation
 <div class='paper-box'>
   <div class='paper-box-image'>
   <div>
-    <div class="badge">RoboCup</div>
     <img src='images/AssemblyDrawing.jpg' alt="sym" width="100%">
   </div>
   </div>
