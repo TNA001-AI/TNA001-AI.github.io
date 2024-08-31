@@ -114,8 +114,6 @@ Mechatronics Modeling & Simulation
 <!-- 
 - [Secondary reduction gearbox design]() -->
 
-</div>
-</div>
 
 
 # 💻 Internships
