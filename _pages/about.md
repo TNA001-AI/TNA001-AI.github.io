@@ -107,7 +107,7 @@ Mechatronics Modeling & Simulation
 <div class='paper-box'>
   <div class='paper-box-image'>
   <div>
-    <img src='images/AssemblyDrawing.jpg' alt="sym" width="100%">
+    <img src='images/CarPole.jpg' alt="sym" width="100%">
   </div>
   </div>
 <div class='paper-box-text' markdown="1">
