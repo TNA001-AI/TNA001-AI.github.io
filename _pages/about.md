@@ -114,7 +114,7 @@ Mechatronics Modeling & Simulation
 
 **RL Projects** 
 - Complete the [CartPole](https://gymnasium.farama.org/environments/classic_control/cart_pole/) task in gym using the Actor-Critic Policy Gradient algorithm and the Deep Q-Network (DQN) algorithm, respectively.
-- Successfully implemented playing [Frozen Lake](https://gymnasium.farama.org/environments/toy_text/frozen_lake/) using the Q-Learning algorithm.
+- Successfully applied the Q-Learning algorithm to solve the [Frozen Lake](https://gymnasium.farama.org/environments/toy_text/frozen_lake/) environment.
 </div>
 </div>
 
