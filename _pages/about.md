@@ -33,7 +33,7 @@ Mechatronics Modeling & Simulation
 
 - *Aug 2023 - Jun 2024*. [University of Detroit Mercy](https://www.udmercy.edu/), Detroit, MI, US
   - B.E. in Mechatronics, Robotics, and Automation Engineering, GPA: 3.81/4.00
-  - Courses: Robotics, Autonomous Mobility Robotics, Embedded Systems, Computational Intelligence Technique, 
+  - Courses: Robotics, Autonomous Mobility Robotics, Embedded Systems, Computational Intelligence Technique
 
 - *Sept 2020 - Jun 2024*. [Beijing University of Chemical Technology](https://english.buct.edu.cn/main.htm), Beijing, CN
   - B.E. in Mechanical Design, Manufacturing and Automation, GPA: 3.62/4.33
@@ -82,7 +82,7 @@ Mechatronics Modeling & Simulation
 
 -	Orchestrated a four-step approach, including precise identification of target objects, accurate localization using depth cameras, pose analysis for gripping, and precise control of the robotic arm for successful object grasping and delivery.
 
--	Utilized *MoveIt* with *Open Motion Planning Library (OMPL)* for motion and path planning, *RRT** algorithm for efficient trajectory generation, and *TRAC-IK* for accurate inverse kinematics.
+-	Utilized *MoveIt* with *Open Motion Planning Library (OMPL)* for motion and path planning, *RRT\** algorithm for efficient trajectory generation, and *TRAC-IK* for accurate inverse kinematics.
 
 -	Integrated *YOLOv5* and *Kinect DK* to achieve target object recognition and 3D localization.
 
