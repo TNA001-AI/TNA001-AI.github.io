@@ -112,6 +112,20 @@ Mechatronics Modeling & Simulation
   </div>
 <div class='paper-box-text' markdown="1">
 
+**RL Projects** 
+- Complete the CartPole task in gym using the Actor-Critic Policy Gradient algorithm and the Deep Q-Network (DQN) algorithm, respectively.
+
+</div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+  <div>
+    <img src='images/AssemblyDrawing.jpg' alt="sym" width="100%">
+  </div>
+  </div>
+<div class='paper-box-text' markdown="1">
+
 **Other Projects** 
 - [TM4C Microcontroller-based ROS Car](https://youtu.be/Vz4X8Z0HHWA)
 
