@@ -30,6 +30,7 @@ You can find my CV here: [Tao's Curriculum Vitae](../assets/Naian_Tao_CV.pdf).
 Mechatronics Modeling & Simulation
 - *Aug 2024 – Present*. [Columbia University](https://www.columbia.edu/), New York, NY, US
   - M.S. in Mechanical Engineering (Robotics Track)
+  - Courses: Robotics Studio, Reinforcement Learning, Control
 
 - *Aug 2023 - Jun 2024*. [University of Detroit Mercy](https://www.udmercy.edu/), Detroit, MI, US
   - B.E. in Mechatronics, Robotics, and Automation Engineering, GPA: 3.81/4.00
