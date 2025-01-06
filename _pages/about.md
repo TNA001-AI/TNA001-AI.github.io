@@ -56,7 +56,7 @@ Mechatronics Modeling & Simulation
 
 - Designed and fabricated a bipedal robot, including *3D* printing of components. Successfully integrated six *LX-16A servo motors*, a *DC-to-DC converter*, a motor controller, and a *Raspberry Pi 4* to complete the robot's drive system.
 - Developed and implemented a walking program, achieving a robot walking speed of 4.17 cm/s.
-- Created the robot's *URDF* (Unified Robot Description Format) file to accurately model its physical properties. Simulated the robot in *NVIDIA Isaac Sim* for verification and testing.
+- Created the robot's *URDF* (*Unified Robot Description Format*) file to accurately model its physical properties. Simulated the robot in *NVIDIA Isaac Sim* for verification and testing.
 - Trained the robot to walk on flat terrain using the *Proximal Policy Optimization* (*PPO*) algorithm in Isaac Lab. Input data included IMU (Inertial Measurement Unit) and six joint position sensors. The robot achieved a walking speed of 20 cm/s on flat surfaces.
 -  Integrated a ground-height sensor (*RayCaster*) for the robot and extended training to uneven terrain with varying heights ranging from 0 cm to 10 cm. Enabled the robot to maintain a stable walking speed of 20 cm/s, demonstrating robust adaptability to environmental variations.
 - *Future Work:* Apply the reinforcement learning training results to the physical robot to validate and refine the performance in real-world scenarios.
