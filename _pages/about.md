@@ -29,7 +29,7 @@ You can find my CV here: [Tao's Curriculum Vitae](../assets/Naian_Tao_CV.pdf).
 # 📖 Educations
 Mechatronics Modeling & Simulation
 - *Aug 2024 – Present*. [Columbia University](https://www.columbia.edu/), New York, NY, US
-  - M.S. in Mechanical Engineering (Robotics Track)
+  - M.S. in Mechanical Engineering (Robotics Track), GPA: 3.83/4.00
   - Courses: Robotics Studio, Reinforcement Learning, Control
 
 - *Aug 2023 - Jun 2024*. [University of Detroit Mercy](https://www.udmercy.edu/), Detroit, MI, US
@@ -41,6 +41,31 @@ Mechatronics Modeling & Simulation
   - Courses: Automatic Control Design, Artificial Intelligence, Mechine Design, Program Design, Hydraulic and Atmospheric Pressure Transmission 
 
 # 🚀 Projects
+<div class='paper-box'>
+  <div class='paper-box-image'>
+  <div>
+    <div class="badge">Senior Design</div>
+    <img src="images/SeniorProject.gif" alt="sym" width="100%">
+  </div>
+  </div>
+<div class='paper-box-text' markdown="1">
+
+
+[**Robotics Studio Project and Reinforcement Learning Implementation**](https://youtu.be/eACXkdx2TQM)
+
+- Designed and fabricated a bipedal robot, including 3D printing of components. Successfully integrated six LX-16A servo motors, a DC-to-DC converter, a controller, and a Raspberry Pi 4 to complete the robot's drive system.
+
+- Developed and implemented a walking program, achieving a robot walking speed of 4.17 cm/s.
+
+- Created the robot's URDF (Unified Robot Description Format) file to accurately model its physical properties. Simulated the robot in NVIDIA Isaac Sim for verification and testing.
+
+- Trained the robot to walk on flat terrain using the Proximal Policy Optimization (PPO) algorithm in Isaac Lab. Input data included IMU (Inertial Measurement Unit) and six joint position sensors. The robot achieved a walking speed of 20 cm/s on flat surfaces.
+
+- Integrated a ground-height sensor (RayCaster) for the robot and extended training to accommodate uneven terrain. Enabled the robot to maintain a stable walking speed of 20 cm/s on various surfaces.
+- *Future Work：* Apply the reinforcement learning training results to the physical robot to validate and refine the performance in real-world scenarios.
+</div>
+</div>
+
 
 <div class='paper-box'>
   <div class='paper-box-image'>
