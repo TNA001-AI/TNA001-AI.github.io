@@ -44,7 +44,7 @@ Mechatronics Modeling & Simulation
 <div class='paper-box'>
   <div class='paper-box-image'>
   <div>
-    <div class="badge">Senior Design</div>
+    <div class="badge">Senior</div>
     <img src="images/SeniorProject.gif" alt="sym" width="100%">
   </div>
   </div>
@@ -63,6 +63,7 @@ Mechatronics Modeling & Simulation
 
 - Integrated a ground-height sensor (RayCaster) for the robot and extended training to accommodate uneven terrain. Enabled the robot to maintain a stable walking speed of 20 cm/s on various surfaces.
 - *Future Work：* Apply the reinforcement learning training results to the physical robot to validate and refine the performance in real-world scenarios.
+
 </div>
 </div>
 
