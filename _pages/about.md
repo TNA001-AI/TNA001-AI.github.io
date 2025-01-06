@@ -81,6 +81,7 @@ Mechatronics Modeling & Simulation
 - Trained dataset using *YOLOv8* and combined it with *Kinect V2* point cloud data to achieve target object localization.
 - Performed camera calibration and hand-eye calibration between the robotic arm and the camera, significantly improving the grasping accuracy.
 - Implemented navigation functionality using the *A\** algorithm for global path planning and the *DWA* algorithm for local path planning.
+- [Walking on Uneven Terrain](https://youtu.be/f4579Unitg8)
 </div>
 </div>
 
