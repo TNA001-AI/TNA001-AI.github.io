@@ -62,7 +62,7 @@ Mechatronics Modeling & Simulation
 - Trained the robot to walk on flat terrain using the Proximal Policy Optimization (PPO) algorithm in Isaac Lab. Input data included IMU (Inertial Measurement Unit) and six joint position sensors. The robot achieved a walking speed of 20 cm/s on flat surfaces.
 
 - Integrated a ground-height sensor (RayCaster) for the robot and extended training to accommodate uneven terrain. Enabled the robot to maintain a stable walking speed of 20 cm/s on various surfaces.
-- *Future Work：* Apply the reinforcement learning training results to the physical robot to validate and refine the performance in real-world scenarios.
+- *Future Work:* Apply the reinforcement learning training results to the physical robot to validate and refine the performance in real-world scenarios.
 
 </div>
 </div>
