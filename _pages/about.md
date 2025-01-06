@@ -46,7 +46,7 @@ Mechatronics Modeling & Simulation
   <div>
     <div class="badge">Bipedal Robot</div>
     <img src='images/real_robot.gif' alt="sym" width="100%">
-    <img src="images/ObjectGrasping1.gif" alt="sym2" width="100%">
+    <img src="images/uneven_RL.gif" alt="sym2" width="100%">
   </div>
   </div>
 <div class='paper-box-text' markdown="1">
