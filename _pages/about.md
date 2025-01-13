@@ -52,7 +52,7 @@ Mechatronics Modeling & Simulation
 <div class='paper-box-text' markdown="1">
 
 
-Robotics Studio Project and Reinforcement Learning Implementation
+**Robotics Studio Project and Reinforcement Learning Implementation**
 
 - Designed and fabricated a bipedal robot, including *3D* printing of components. Successfully integrated six *LX-16A servo motors*, a *DC-to-DC converter*, a motor controller, and a *Raspberry Pi 4* to complete the robot's drive system.
 - Developed and implemented a walking program, achieving a robot walking speed of 4.2 cm/s.
