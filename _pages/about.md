@@ -168,6 +168,7 @@ Mechatronics Modeling & Simulation
   - Created a *Predictive Cruise Control (PCC)* for cruise control in electric trucks. Factored in road slope information and used the *Dynamic Programming (DP)* algorithm to generate efficient speed sequences, reduce energy consumption, and enhance energy regenerative capabilities.
   - Implemented cloud control for real-time fleet, environment, and infrastructure connectivity, improving adaptive driving with dynamic traffic data by using the *Genetic Algorithm (GA)*.
   - Co-authored a patent on *Battery Swapping Rhythm Planning and Predictive Cruise Control Method for Electric Heavy Truck Fleets* (Patent Number: [CN117002500A](http://epub.cnipa.gov.cn/patent/CN117002500A)).
+  -  Co-authored a journal paper: *Multi-objective Predictive Cruise Control for Electric Heavy-duty Trucks Considering Fleet Battery Swapping under Cyber-Physical System*, **Energy**, 2025, 135462. [https://doi.org/10.1016/j.energy.2025.135462](https://doi.org/10.1016/j.energy.2025.135462).
 
 # 🏆 Honors and Awards
 - *Jan 2023*, Individual Scholarship in School Year 2021-2022 Term 2 in BUCT
