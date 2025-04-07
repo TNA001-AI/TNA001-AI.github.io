@@ -54,7 +54,7 @@ Mechatronics Modeling & Simulation
 
 **Robotics Studio Project and Reinforcement Learning Implementation**
 
-- Designed and fabricated a bipedal robot, including *3D* printing of components. Successfully integrated six *LX-16A servo motors*, a *DC-to-DC converter*, a motor controller, and a *Raspberry Pi 4* to complete the robot's drive system.
+- Designed a bipedal robot, including *3D* printing of components. Successfully integrated six *LX-16A servo motors*, a *DC-to-DC converter*, a motor controller, and a *Raspberry Pi 4* to complete the robot's drive system.
 - Developed and implemented a walking program, achieving a robot walking speed of 4.2 cm/s.
 - Created the robot's *URDF (Unified Robot Description Format*) file to accurately model its physical properties. Simulated the robot in *NVIDIA Isaac Sim* for verification and testing.
 - Trained the robot to walk on flat terrain using the *Proximal Policy Optimization (PPO*) algorithm in *Isaac Lab*. Input data included *IMU (Inertial Measurement Unit)* and six joint position sensors. The robot achieved a walking speed of 20.1 cm/s on flat surfaces.
